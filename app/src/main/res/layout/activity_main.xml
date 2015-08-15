@@ -21,4 +21,14 @@
         android:layout_marginStart="447dp"
         android:layout_marginTop="38dp" />
 
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/textView"
+        android:layout_toRightOf="@+id/radioButton"
+        android:layout_toEndOf="@+id/radioButton"
+        android:layout_marginLeft="138dp"
+        android:layout_marginStart="138dp"></LinearLayout>
+
 </RelativeLayout>
